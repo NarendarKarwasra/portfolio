@@ -1,0 +1,11 @@
+#drop-shadow{
+    filter: drop-shadow(-2vw 0vw 1vw #000);
+}
+
+
+#box:hover #box-content{
+    top: 0;
+    left: 0;
+    transition: linear 2s;
+}
+
